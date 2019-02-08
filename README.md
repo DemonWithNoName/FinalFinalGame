@@ -24,3 +24,10 @@ Important Folders and Files
 # VideoPics 
     Prologe
     Epilogue
+    
+# Other Documents
+    NameOfTheDemonPresentation.pdf (Presentation from the 31.01.19)
+    NameOfTheDemonLinkTasks.pdf (Tasks of group members)
+   
+    
+    
